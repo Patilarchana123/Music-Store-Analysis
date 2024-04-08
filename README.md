@@ -3,8 +3,7 @@
 ✤ Project Description: <br>
 - This project uses SQL to analyze the dataset of an online music store.
 
-- The objective of the project is to gain valuable insights into the store's operations, Customer Segmentation, trends ,artist effectiveness, artist growth, customer interest and money spent by customer.
-<br>
+- The objective of the project is to gain valuable insights into the store's operations, Customer Segmentation, trends ,artist effectiveness, artist growth, customer interest and money spent by customer.<br>
 - The goal of the project is to answer a set of questions about the store's business performance and help in its growth by making better decisions.
 
 <br>
