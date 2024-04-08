@@ -15,14 +15,14 @@
 - album <br>
 - artist<br>
 - customer<br>
-employee<br>
-invoice<br>
-genre<br>
-invoice_line<br>
-media_type<br>
-playlist<br>
-playlist_track<br>
-track<br>
+- employee<br>
+- invoice<br>
+- genre<br>
+- invoice_line<br>
+- media_type<br>
+- playlist<br>
+- playlist_track<br>
+- track<br>
 
 ✤ Queries of the Project:<br>
 
